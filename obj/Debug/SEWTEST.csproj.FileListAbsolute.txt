@@ -1,0 +1,10 @@
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\bin\Debug\SEWTEST.exe.config
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\bin\Debug\SEWTEST.exe
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\bin\Debug\SEWTEST.pdb
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\obj\Debug\SEWTEST.csprojAssemblyReference.cache
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\obj\Debug\SEWTEST.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\obj\Debug\SEWTEST.csproj.CopyComplete
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\obj\Debug\SEWTEST.exe
+C:\Users\Sachin\source\repos\SEWTEST\SEWTEST\obj\Debug\SEWTEST.pdb
